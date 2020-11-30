@@ -2,7 +2,7 @@
 
 > Hands on Machine Learning Course
 
-1. (26/11/2020) 4 ore: Introduzione Generale
+1. (26/11/2020) 4 ore: Introduzione Generale [PDF](pdf/test.pdf)
 2. (27/11/2020) 3 ore: Python Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/intro.ipynb),  Class Notes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/class-notes.ipynb)
 3. (30/11/2020) 3 ore: Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/pandas.ipynb)
 Numpy  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/numpy.ipynb)
