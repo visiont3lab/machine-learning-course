@@ -6,8 +6,8 @@
 2. (27/11/2020)MR 3 ore: Python Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/intro.ipynb),  Class Notes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/class-notes.ipynb)
 3. (30/11/2020)MR 3 ore: Numpy  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/numpy.ipynb)
 4. (01/12/2020)DG 4 ore: Oggetti Python e Matplotlib 
-5. (02/12/2020)DG 3 ore: Pandas Dettaglio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/pandas.ipynb),  Esercizio in classe [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/Pandas_Covid_Exercise.ipynb), 
-Pandas Covid Exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/ClassNote-2-12-2020.ipynb), 
+5. (02/12/2020)DG 3 ore: Pandas Dettaglio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/pandas.ipynb),  Esercizio in Classe Pandas Covid  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/Pandas_Covid_Exercise.ipynb), 
+ Esercizio in Classe Pandas Covid   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/ClassNote_2_12_2020.ipynb), 
 
 
 ## References
