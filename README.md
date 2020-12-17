@@ -17,6 +17,7 @@ https://drive.google.com/file/d/1bBBn2hO_hIra2fM_YsvV8FRtOGbgHKFq/view?usp=shari
 11. (16/12/2020) MR 3:30 ore:  Principal Component Analysis (PCA) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/PCA.ipynb)    Regressione Come Scegliere il Modello [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/Regression_Model_Choice.ipynb) 
 Variabili Categoriche  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/Categorical_Variables.ipynb) 
 Variabili Categoriche applicate alla regressione  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/Regression_Categorical_Example.ipynb)
+12. (17/12/2020) DG 3:30 ore:  Decision Tree - ROC AUC  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/61_DecisionTrees_excercise.ipynb)
 
 
 ## References
