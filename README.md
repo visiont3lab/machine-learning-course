@@ -19,6 +19,7 @@ Variabili Categoriche  [![Open In Colab](https://colab.research.google.com/asset
 Variabili Categoriche applicate alla regressione  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/Regression_Categorical_Example.ipynb)
 12. (17/12/2020) DG 3:30 ore:  Decision Tree - ROC AUC  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/59_NAN_NULL.ipynb),
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/60_DecisionTree.ipynb),[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/61_DecisionTrees_Regression.ipynb)
+[PDF_DT](pdf/01_Decision_tree.pdf),[PDF_CONFMATR](pdf/02_Conf_matrix.pdf),[PDF_ROCAUC](pdf/03_AUC_ROC.pdf)
 
 ## References
  
