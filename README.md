@@ -21,7 +21,7 @@ Variabili Categoriche applicate alla regressione  [![Open In Colab](https://cola
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/60_DecisionTree.ipynb),[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/61_DecisionTrees_Regression.ipynb)
 [PDF_DT](pdf/01_Decision_tree.pdf),[PDF_CONFMATR](pdf/02_Conf_matrix.pdf),[PDF_ROCAUC](pdf/03_AUC_ROC.pdf)
 13. (07/01/2021) MR 3:30 ore:  Support Vector Machine [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/classification/SVM.ipynb)
-14. (07ù8/01/2021) DG 3:30 ore:  Random Forest - Titanic dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/xxxxxxxxxxxxxxxxxxxxxxxxx.ipynb)
+14. (08/01/2021) DG 3:30 ore:  Random Forest - Titanic dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/xxxxxxxxxxxxxxxxxxxxxxxxx.ipynb)
 15. (11/01/2021) MR 3 ore:  Project Covid Mask Classifier Part1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/classification/Classification_Project.ipynb), [Classifcation Mask Classifier Project](https://github.com/visiont3lab/covid-mask-classifier)
 
 ## References
