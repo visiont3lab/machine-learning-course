@@ -7,6 +7,8 @@ import numpy as np
 from datetime import datetime
 import os
 
+#--  pip install scikit-learn
+
 url ="https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv"  
 df = pd.read_csv(url) # lettura
 df.head()
