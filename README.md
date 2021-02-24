@@ -15,3 +15,15 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/60_DecisionTree.ipynb),[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/61_DecisionTrees_Regression.ipynb)
 [PDF_DT](pdf/01_Decision_tree.pdf),[PDF_CONFMATR](pdf/02_Conf_matrix.pdf),[PDF_ROCAUC](pdf/03_AUC_ROC.pdf)
 10. (18/02/2021) DG 4:00 ore:  Random Forest - Titanic dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/69_Random_Forest_Approach.ipynb),[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/70_Categorical_variable.ipynb),[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/71_Titanic_multiclass.ipynb)
+
+PyCaret +SMOTE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/71_Ensemble_Learning_Bagging_&_Boosting.ipynb),
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/72_LoanPrediction_Analysis_Classification.ipynb),
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/74_SMOTE_unbalanced.ipynb),
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/75_titanic_pycaret.ipynb),
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/76_Customer_churn_prediction.ipynb),
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/77_Clustering_Tutorial_Level_Beginner_CLU101-Pycaret.ipynb)
+
+
+
+
+
