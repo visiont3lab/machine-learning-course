@@ -6,3 +6,5 @@
 2. (13/10/2021)DG 3 ore: Introduzione a Python
 3. (14/10/2021)MR 3 ore: Python + Colab (List,Array,Markdown, Funzione,Dizionari): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/PythonColabIntro.ipynb)
 3. (19/10/2021)MR 3 ore: Pandas + Plotly  Pandas Dettaglio: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/visualization/pandas.ipynb),  , Esercizio: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/Pandas_Plolty_Example.ipynb)
+4. (21/10/2021)MR 3:30 ore: Regressione Lineare [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/RegressioneLineare.ipynb) [Video Setup Windows Python Global Variable](
+https://drive.google.com/file/d/1bBBn2hO_hIra2fM_YsvV8FRtOGbgHKFq/view?usp=sharing)
