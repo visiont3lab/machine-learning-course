@@ -10,3 +10,4 @@
 6. (21/10/2021)MR 3:30 ore: Regressione Lineare [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/02_RegressioneLineare.ipynb) [Video Setup Windows Python Global Variable](
 https://drive.google.com/file/d/1bBBn2hO_hIra2fM_YsvV8FRtOGbgHKFq/view?usp=sharing)
 7. (25/10/2021)MR 3:30 ore: Regressione Lineare Exercise Diabetes sklearn dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/Exercise_Diabetes_Dataset_Regression.ipynb) 
+8. (28/10/2021)MR 3:30 ore: Categorical Variable and Pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/regression/Categorical_And_Pipeline.ipynb) 
