@@ -20,7 +20,9 @@ HSV Jupyter Widget Segmentation [![Open In Colab](https://colab.research.google.
 10. (28/02/2022)MR 3 ore: [Github + Smartgit + Face Detector HaarCascade ] Project Covid Mask Classifier_Part2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/classification/Project_Covid_Mask_Classifier_Part2.ipynb) Support Vector Machine [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/classification/SVM.ipynb)  Mask-No Mask Classifier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/classification/Project_Covid_Mask_Classifier_Part3.ipynb)
 [Mask-Classifier class project -- mask-detector-covid](https://github.com/visiont3lab/mask-detector-covid)
 [Haar Cascade Custom Training](https://github.com/visiont3lab/haar-cascade-custom-training)
-11. (01/03/2022)DG 3 ore: Anvil + Confusion Matrix + ROC + Trees
+11. (01/03/2022)DG 3 ore: Anvil + Confusion Matrix + ROC + Trees ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/59_NAN_NULL.ipynb),
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/60_DecisionTree.ipynb),[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/61_DecisionTrees_Regression.ipynb)
+[PDF_DT](pdf/01_Decision_tree.pdf),[PDF_CONFMATR](pdf/02_Conf_matrix.pdf),[PDF_ROCAUC](pdf/03_AUC_ROC.pdf)
 
 
 
