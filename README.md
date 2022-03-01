@@ -21,6 +21,7 @@ HSV Jupyter Widget Segmentation [![Open In Colab](https://colab.research.google.
 [Mask-Classifier class project -- mask-detector-covid](https://github.com/visiont3lab/mask-detector-covid)
 [Haar Cascade Custom Training](https://github.com/visiont3lab/haar-cascade-custom-training)
 11. (01/03/2022)DG 3 ore: Anvil + Confusion Matrix + ROC + Trees 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/iris_classifier_anvil_api.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/60_DecisionTree.ipynb),[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/61_DecisionTrees_Regression.ipynb)
 [PDF_DT](pdf/01_Decision_tree.pdf),[PDF_CONFMATR](pdf/02_Conf_matrix.pdf),[PDF_ROCAUC](pdf/03_AUC_ROC.pdf)
 
