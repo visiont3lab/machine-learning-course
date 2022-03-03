@@ -27,4 +27,4 @@ HSV Jupyter Widget Segmentation [![Open In Colab](https://colab.research.google.
 12. (02/03/2022)MR 3 ore: Cross validation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/classification/Classification_Project.ipynb) [Final Project Completed -- mask-detector-covid](https://github.com/visiont3lab/mask-detector-covid)
 13. (04/03/2022) MR 3 ore: Segmentation Pretrained model (Deeplabv3-resenet) 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/deep-learning-course/blob/main/colab/SemanticSegmentationExample.ipynb)  [Streamlit Segmetation App inference App](https://github.com/visiont3lab/streamlit-example) 
-
+[Streamlit App](https://github.com/visiont3lab/streamlit-app)
