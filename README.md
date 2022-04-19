@@ -8,3 +8,4 @@
 Excercise Random Names Table [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/ExcerciseRandomNamesTable.ipynb) 
 Excercise Covid
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/ExcerciseCovid.ipynb)  Numpy  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/numpy.ipynb)
+4. (01/02/2022))DG 3 ore: Colab + Python Recap [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/machine-learning-course/blob/main/python/intro.ipynb)
