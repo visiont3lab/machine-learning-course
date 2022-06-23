@@ -2,6 +2,6 @@
 
 Daniele Grotti: danielegrottiuk@gmail.com
 
-> Machine Learning Course FAV
+> Machine Learning Course IFOA
 
 1. (21/06/2022)DG 3 ore: Introduction  ML [PDF_1](pdf/00_intro_ML.pdf)
